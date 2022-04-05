@@ -1,0 +1,4 @@
+co/com/certificacion/demoblaze/stepdefinitions/RegistroStepDefinitions.java
+ co.com.certificacion.demoblaze.stepdefinitions.RegistroStepDefinitions
+co/com/certificacion/demoblaze/runners/Registro.java
+ co.com.certificacion.demoblaze.runners.Registro
